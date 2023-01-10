@@ -4,5 +4,5 @@ Try my little game
 
 &emsp;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;
 
-<a href="https://play.google.com/store/apps/details?id=com.yamildiego.chessing"><img alt="Get it on Google Play" src="https://candydev.yamildiego.com/logo192.png" height=100px /></a>
+<a href="https://candydev.yamildiego.com/"><img alt="Play Candy Dev" src="https://candydev.yamildiego.com/logo192.png" height=100px /></a>
 
